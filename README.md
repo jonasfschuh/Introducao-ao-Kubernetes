@@ -1,3 +1,9 @@
+Referencia: 
+
+https://kubernetes.io/pt-br/docs/reference/kubectl/cheatsheet/
+
+
+
 # Introdução ao Kubernetes - Requisitos para o Laboratório
 
 Bem-vindo ao webinar de Introdução ao Kubernetes na prática! Este repositório contém os arquivos e instruções necessários para você acompanhar o laboratório prático. Antes de começar, é importante garantir que você atenda aos requisitos mínimos abaixo.
