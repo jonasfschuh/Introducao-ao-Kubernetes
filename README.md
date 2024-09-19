@@ -215,6 +215,12 @@ ConfigMaps são usados para armazenar pares de chave-valor que podem ser acessad
 
 Secrets são usados para armazenar informações confidenciais, como senhas, tokens ou chaves de API, de maneira segura. Assim como o ConfigMap, eles podem ser referenciados pelos Pods sem incluir essas informações diretamente nas imagens dos containers.
 
+Fonte: 
+https://www.youtube.com/watch?v=E8yE2IK-uaI
+
+
+
+
 - [Documentação oficial dos Secrets](https://kubernetes.io/docs/concepts/configuration/secret/)
 
 ---
